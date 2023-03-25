@@ -116,3 +116,26 @@ a {
   font-size: 24px;
   margin-bottom: 96px;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+}
+
+.quote-paragraph {
+  font-size: 36px;
+  font-style: italic;
+  /* width: 776px; */
+}
+
+.quote-paragraph-author {
+  font-size: 24px;
+  font-weight: 900;
+  text-align: right;
+}
+
+.paragraphandauthor {
+  width: 42%;
+  margin: 96px 0;
+}
