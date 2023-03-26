@@ -11,6 +11,8 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+/* * This is the start of the 'Hero' section * */
+
 .hero {
   display: flex;
   justify-content: center;
@@ -85,6 +87,8 @@ a {
   margin-top: 8px;
 }
 
+/* * This is the start of the 'Cards' section * */
+
 .cards-group {
   display: flex;
   justify-content: center;
@@ -118,6 +122,8 @@ a {
   margin-bottom: 96px;
 }
 
+/* * This is the start of the 'Quote' section * */
+
 .quote {
   background-color: #e5e7eb;
   display: flex;
@@ -140,6 +146,8 @@ a {
   width: 42%;
   margin: 96px 0;
 }
+
+/* * This is the start of the 'Action' section * */
 
 .action {
   display: flex;
@@ -179,6 +187,8 @@ a {
   font-size: 18px;
   font-weight: 900;
 }
+
+/* * This is the start of the 'Footer' section * */
 
 .footer {
   display: flex;
